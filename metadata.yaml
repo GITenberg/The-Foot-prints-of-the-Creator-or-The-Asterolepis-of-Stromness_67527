@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1935'
     url: http://www.gutenberg.org/2009/agents/1935
     wikipedia: https://en.wikipedia.org/wiki/Louis_Agassiz
+covers:
+- cover_type: archival
+  image_path: 67527-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Hugh
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33221
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67527#The-Foot-prints-of-the-Creator-or-The-Asterolepis-of-Stromness
 gutenberg_issued: '2022-02-28'
 identifiers:
   gutenberg: '67527'
